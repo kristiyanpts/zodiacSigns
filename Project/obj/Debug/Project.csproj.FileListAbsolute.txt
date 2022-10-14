@@ -1,0 +1,12 @@
+C:\Users\krist\Desktop\Project\Project\bin\Debug\Project.exe.config
+C:\Users\krist\Desktop\Project\Project\bin\Debug\Project.exe
+C:\Users\krist\Desktop\Project\Project\bin\Debug\Project.pdb
+C:\Users\krist\Desktop\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\krist\Desktop\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\krist\Desktop\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\krist\Desktop\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\krist\Desktop\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\krist\Desktop\Project\Project\obj\Debug\Project.exe
+C:\Users\krist\Desktop\Project\Project\obj\Debug\Project.pdb
+C:\Users\krist\Desktop\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\krist\Desktop\Project\Project\obj\Debug\Project.Form2.resources
